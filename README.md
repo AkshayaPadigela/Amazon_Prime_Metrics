@@ -1,7 +1,7 @@
 # Amazon_Prime_Metrics
 
 
-##Project Overview:
+## Project Overview:
 This repository contains a comprehensive analytics dashboard designed to visualize key metrics and trends in Amazon Prime. The dashboard provides an interactive interface for exploring viewer preferences, ratings distributions, genre popularity, geographical distribution and release trends over time.
 
 ## Dashboard :
