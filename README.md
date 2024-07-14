@@ -2,7 +2,7 @@
 
 
 ## Project Overview:
-This repository contains a comprehensive analytics dashboard designed to visualize key metrics and trends in Amazon Prime. The dashboard provides an interactive interface for exploring viewer preferences, ratings distributions, genre popularity, geographical distribution and release trends over time.
+The Amazon Prime Metrics repository provides a comprehensive analytics dashboard to visualize and analyze key performance indicators for Amazon's video streaming service, Amazon Prime. The dashboard offers an interactive interface to explore viewer preferences, content ratings, genre popularity, geographical distribution, and release trends over time. This data-driven solution enables data-driven decision making and optimization of the Amazon Prime platform
 
 ## Dashboard :
 https://app.powerbi.com/groups/me/reports/6b143570-e7b4-45e4-9685-da68cc18c51a/02e572ca90332259010e?experience=power-bi
